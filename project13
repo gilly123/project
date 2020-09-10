@@ -1,0 +1,16 @@
+		Project13
+
+
+1. A load balancer is a device that actas as a reverse proxy used to distribute network or application traffic across mutiple servers in a server farm. It is used to increase capacity and reliability of applications.
+
+2. The load balancer software i am familiar with is Haproxy.
+
+3. Healthcheck in load balancing is when a the load balancer checks the status of all it's registered servers to make sure they are running before routing traffic to it.
+
+4. The first server to recieve traffic depends on the algorithm that is set in the load balancer
+
+5. A forward proxy is an internet-facing proxy server used to control incoming traffic from the internet.
+
+6. A LB is needed to help distribute traffic to multiple servers so as to increase the availability of the appand reponsiveness.
+
+7.I have written a script of about 96 lines.
